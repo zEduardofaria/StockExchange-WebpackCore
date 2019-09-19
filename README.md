@@ -17,7 +17,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ```bash
 git clone https://github.com/zEduardofaria/StockExchange-WebpackCore.git
-cd client
+cd StockExchange-WebpackCore/client
 npm install
 npm start
 ```
